@@ -1,10 +1,10 @@
-# sensorall
+# Sensorall
 Sensorall is a simple iOS app to explore all the sensors of your iOS device provided e.g Accelerometers, Gyroscopes, Pedometer, Magnetometer, and Altimeter.
 
 You can find Sensorall's logo here: 
 - [ ] https://dribbble.com/shots/6778475-Icon-of-Sensorall-app
 
-Here is the app:
+
 ![Image description](https://github.com/enjelhutasoit/sensorall/blob/master/Sensorall%20test%20flow.png)
 
 ------------------------------------------------------------------------------------------------
@@ -14,7 +14,7 @@ Hi, there?
 Enjel Hutasoit's here!
 
 I love to learn from people with various perspectives.
-So, lets connecting and growing together.
+So, let's connecting and growing together.
 
 You can connect with me on:
 - [ ] https://enjelhutasoit.com 
