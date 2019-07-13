@@ -12,6 +12,11 @@
 		EF0EF84622D9BFED00EE91AE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF0EF84422D9BFED00EE91AE /* Main.storyboard */; };
 		EF0EF84822D9BFEF00EE91AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF0EF84722D9BFEF00EE91AE /* Assets.xcassets */; };
 		EF0EF84B22D9BFEF00EE91AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF0EF84922D9BFEF00EE91AE /* LaunchScreen.storyboard */; };
+		EF0EF85322D9C2D500EE91AE /* AccelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0EF85222D9C2D500EE91AE /* AccelViewController.swift */; };
+		EF0EF85522D9C36B00EE91AE /* PedoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0EF85422D9C36B00EE91AE /* PedoViewController.swift */; };
+		EF0EF85722D9C3E100EE91AE /* MagnetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0EF85622D9C3E100EE91AE /* MagnetViewController.swift */; };
+		EF0EF85922D9C41900EE91AE /* GyroViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0EF85822D9C41900EE91AE /* GyroViewController.swift */; };
+		EF0EF85B22D9C48900EE91AE /* AltiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0EF85A22D9C48900EE91AE /* AltiViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		EF0EF84722D9BFEF00EE91AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF0EF84A22D9BFEF00EE91AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EF0EF84C22D9BFEF00EE91AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF0EF85222D9C2D500EE91AE /* AccelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccelViewController.swift; sourceTree = "<group>"; };
+		EF0EF85422D9C36B00EE91AE /* PedoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PedoViewController.swift; sourceTree = "<group>"; };
+		EF0EF85622D9C3E100EE91AE /* MagnetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnetViewController.swift; sourceTree = "<group>"; };
+		EF0EF85822D9C41900EE91AE /* GyroViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GyroViewController.swift; sourceTree = "<group>"; };
+		EF0EF85A22D9C48900EE91AE /* AltiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AltiViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +70,11 @@
 				EF0EF84722D9BFEF00EE91AE /* Assets.xcassets */,
 				EF0EF84922D9BFEF00EE91AE /* LaunchScreen.storyboard */,
 				EF0EF84C22D9BFEF00EE91AE /* Info.plist */,
+				EF0EF85222D9C2D500EE91AE /* AccelViewController.swift */,
+				EF0EF85422D9C36B00EE91AE /* PedoViewController.swift */,
+				EF0EF85622D9C3E100EE91AE /* MagnetViewController.swift */,
+				EF0EF85822D9C41900EE91AE /* GyroViewController.swift */,
+				EF0EF85A22D9C48900EE91AE /* AltiViewController.swift */,
 			);
 			path = sensorall;
 			sourceTree = "<group>";
@@ -135,7 +150,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF0EF85722D9C3E100EE91AE /* MagnetViewController.swift in Sources */,
+				EF0EF85322D9C2D500EE91AE /* AccelViewController.swift in Sources */,
 				EF0EF84322D9BFED00EE91AE /* ViewController.swift in Sources */,
+				EF0EF85B22D9C48900EE91AE /* AltiViewController.swift in Sources */,
+				EF0EF85922D9C41900EE91AE /* GyroViewController.swift in Sources */,
+				EF0EF85522D9C36B00EE91AE /* PedoViewController.swift in Sources */,
 				EF0EF84122D9BFED00EE91AE /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
