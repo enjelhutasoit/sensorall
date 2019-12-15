@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![Sensoral App 2](https://user-images.githubusercontent.com/28510687/70863632-a998f180-1f7c-11ea-98eb-78cf649b8cfd.png)" width="400" height="70" alt="hay" />
+  <img src="https://github.com/enjelhutasoit/sensorall/blob/master/Sensoral%20App%202.png" alt="sensorall logo" />
 </p>
 
 <h1 align="center">
@@ -15,7 +15,7 @@
 Sensorall is a simple iOS app to explore all the sensors of your iOS device e.g Accelerometers, Gyroscopes, Pedometer, Magnetometer, and Altimeter.
 
 
-![sensorall](https://user-images.githubusercontent.com/28510687/70863605-72c2db80-1f7c-11ea-8d33-777a24095f22.gif
+![sensorall](https://github.com/enjelhutasoit/sensorall/blob/master/sensorall.gif)
 
 
 ## TECHNICAL
